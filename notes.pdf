@@ -1,0 +1,3 @@
+ I am forking this repository to make the sensor as is for the purposes of measuring filament output from the techfortrade extruder. 
+ The diameter sensor runs on a 400 dpi sensor. This translates to an error in measurment of +-0.03175. 
+ 
